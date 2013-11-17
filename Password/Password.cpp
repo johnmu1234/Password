@@ -43,6 +43,7 @@ int myRand( int minNumber, int maxNumber )
 	return random;
 }
 
+// Main function, no parameters used - yet!
 int _tmain(int argc, _TCHAR* argv[])
 {
 	ifstream	infile;
