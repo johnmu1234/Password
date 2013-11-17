@@ -43,8 +43,6 @@ int myRand( int minNumber, int maxNumber )
 	return random;
 }
 
-// Have a generator mode - were the table is produced from a supplied text file - write the data to a serialization
-// Normal mode should just use serialised data
 int _tmain(int argc, _TCHAR* argv[])
 {
 	ifstream	infile;
